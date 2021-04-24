@@ -1,2 +1,2 @@
-# imgbed
-Image bed for Markdown documents.
+# img-bed
+Image bed mainly for Markdown documents on my blog.
